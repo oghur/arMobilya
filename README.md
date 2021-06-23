@@ -12,3 +12,7 @@ Aşağıdaki kütüphaneleri dahil ediniz.
       "com.unity.xr.interaction.toolkit": "0.10.0-preview.7",
       "com.unity.xr.management": "3.2.17",
       "com.unity.modules.xr": "1.0.0"
+
+
+Projeyi çalıştırmak için aşağıdakida eklentiye de ihtiyacınız olacak.
+      DOTween (http://dotween.demigiant.com/)
