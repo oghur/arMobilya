@@ -1,5 +1,6 @@
-# arMobilya
-iç/dış mekan mobilya dizayn AR uyg.
+# Furniture AR App
+a interior design android app with augmented reality.
+iç mekan mobilya dizayn AR uyg.
 
 
 #Kurulum
